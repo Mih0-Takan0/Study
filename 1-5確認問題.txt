@@ -1,3 +1,0 @@
-問１　３．background-image
-問２　red,#f0000,rgb(255,0,0)
-問３　２
